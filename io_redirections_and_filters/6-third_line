@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -n 3
+sort -n 3 iacta
